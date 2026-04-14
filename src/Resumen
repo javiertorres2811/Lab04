@@ -1,3 +1,6 @@
 Hay una clase padre (Mascota) cuyos atributos protegidos (#)  son tipo String (nombre) e int (edad).
 Usa el constructor mascota y los metodos publicos hacerSonido y mostrarInfo (uno muestra la onomatopeya y el otro sus datos)
 Las flechas de Perro y Gato van hacia Mascota, pues son sus clases hijas.
+
+Perro tiene el atributo adicional de raza (String) y Gato de esDeInterior(boolean).
+
